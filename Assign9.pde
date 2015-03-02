@@ -4,7 +4,6 @@ import netP5.*;
 import ddf.minim.*;
 
 //Project as part of Introduction to programming 
-//Also, it works perfectly fine
 NetworkClient mClient;
 Minim minim;
 AudioPlayer song;
